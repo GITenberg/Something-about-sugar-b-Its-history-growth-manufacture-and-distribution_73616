@@ -1,11 +1,16 @@
 _repo: Something-about-sugar-b-Its-history-growth-manufacture-and-distribution_73616
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73616-h/images/cover.jpg
 creator:
   author:
     agent_name: Rolph, George Morrison
     gutenberg_agent_id: '57143'
     url: http://www.gutenberg.org/2009/agents/57143
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73616#Something-about-sugar-b-Its-history-growth-manufacture-and-distribution
 gutenberg_issued: '2024-05-13'
 gutenberg_type: Text
 identifiers:
